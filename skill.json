@@ -1,0 +1,15 @@
+{
+  "name": "genpark-flash-attention-tiling-kernel-skill",
+  "version": "1.0.0",
+  "description": "Online Softmax Tiling FlashAttention kernel executing bounded SRAM query/key/value block updates with running max and sum rescaling for O(1) memory footprint.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "flash-attention",
+    "tiling",
+    "deep-learning-systems",
+    "transformer-kernel"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
